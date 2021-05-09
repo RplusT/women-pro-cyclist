@@ -1,5 +1,5 @@
 # women-pro-cyclist
-Exploring a dataset containing career race results of PCS top 200 female riders
+Exploring and analyzing a dataset containing career race results of PCS top 200 female riders
 
 ### Dataset Description
 This dataset was originally from [Sean Hardison](https://github.com/seanhardison1/pcs) wherein he made a data package containing aggregated rider data from procyclingstats.com (PCS). I specifically used the `rider_records_women.csv` dataset which contains the race results of the top 200 ranked female cyclists by PCS throughout their pro career.
